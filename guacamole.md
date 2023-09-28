@@ -1,7 +1,7 @@
 # Ingredients
 
 -avacado
--lemon
+-lime
 -sal
 
 # Instructions
